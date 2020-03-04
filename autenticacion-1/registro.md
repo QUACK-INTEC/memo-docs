@@ -37,11 +37,11 @@ Al presionar el botón de “continuar”, se le presentará un formulario donde
 Ingrese las credenciales universitarias para sincronizar su cuenta: Universidad, ID de estudiante y Contraseña. Luego de presionar el botón de "Sincronizar mi cuenta", tendrá acceso a la aplicación.
 
 {% hint style="success" %}
-Memo solo utiliza tus credenciales universitarias una vez para obtener tus clases. No guardaremos tu usuario o contraseña.
+Memo solo utiliza tus credenciales universitarias **una vez** para obtener tus clases. Nunca guardaremos tu usuario o contraseña.
 {% endhint %}
 
 {% hint style="info" %}
-Tendrá la opción de sincronizar a cualquier momento posterior a su registro.
+En caso de que ocurran cambios en su selección de asignaturas, tendrá la opción de sincronizar en cualquier momento posterior a su registro.
 {% endhint %}
 
 

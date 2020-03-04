@@ -4,6 +4,8 @@ description: Introducción e informaciones generales
 
 # Memo
 
+![](.gitbook/assets/copy-of-logomemo.png)
+
 **Memo** es una plataforma móvil colaborativa que permite a los estudiantes universitarios conectarse entre sí en su vida estudiantil, gestionando un ambiente virtual colectivo para cada asignatura y permitiendo organizar de manera grupal el itinerario de entregables y eventualidades de cada asignatura. Además, consta con un banco de recursos persistentes para que estudiantes puedan consultar rápidamente información, notas y guías que le sirvan de apoyo para su trayecto.
 
 ### ¿Dónde puedo descargar el APP?
