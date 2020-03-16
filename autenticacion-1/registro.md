@@ -32,7 +32,7 @@ En este momento, puede agregar una foto pulsando el icono de la cámara. Se abri
 
 Al presionar el botón de “continuar”, se le presentará un formulario donde debe ingresar sus credenciales universitarias para cargar sus asignaturas a Memo.
 
-![Formulario de sincronizaci&#xF3;n](../.gitbook/assets/image%20%282%29.png)
+![Formulario de sincronizaci&#xF3;n](../.gitbook/assets/image%20%285%29.png)
 
 Ingrese las credenciales universitarias para sincronizar su cuenta: Universidad, ID de estudiante y Contraseña. Luego de presionar el botón de "Sincronizar mi cuenta", tendrá acceso a la aplicación.
 
