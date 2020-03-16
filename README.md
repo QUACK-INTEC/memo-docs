@@ -14,6 +14,9 @@ description: Introducción e informaciones generales
 
 **Android:** Memo estará disponible para todo público a partir del 1ro de Abril del 2020. Lo podrá descargar desde el PLAY STORE. También puede comunicarse con nosotros si quiere participar en el programa Beta Testing disponible desde el 1 de febrero del 2020.
 
-  
+### Manual de Usuarios
 
+Puede visualizar en manual de usuario en formato PDF accediendo al siguiente enlace:
+
+{% file src=".gitbook/assets/manual-de-usuarios.pdf" %}
 
